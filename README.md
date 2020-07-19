@@ -1,5 +1,5 @@
 # admin
-
+# 注意此项目以转移到 组：no_people_understand_than_you 
 ## Project setup
 ```
 npm install
